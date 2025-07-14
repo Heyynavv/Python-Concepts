@@ -13,7 +13,7 @@ class Employee :
     def greet():
         print("Good Evening")
 
-harry = Employee() #object instantitaion
+harry = Employee("python " , "Navv") #object instantitaion
 
 harry.language ="Python" # This is an instance(object) attribute
 
