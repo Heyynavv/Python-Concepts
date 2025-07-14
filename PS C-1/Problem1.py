@@ -52,7 +52,7 @@ print(abc[::-1])
 # print(f"Your list is  {Numbers}")
 
 
-xy=(0,0,0,0,0,,123,9)
+xy = (0,0,0,0,0,123,9)
 # xy.count(0)
 print(xy.count(0))
 
