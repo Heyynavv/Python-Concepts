@@ -138,7 +138,7 @@ print( s1,type(s1))
 #     i+=1
 
 
-#functions -- bloack of statements that pefroms a specific task
+#functions -- block of statements that pefroms a specific task
 
 #function definition
 def sum(a,b):  # parameters  
@@ -150,7 +150,7 @@ def sum(a,b):  # parameters
 val = sum(5,6) #function call ; arguments
 # print(val)
 
-#recursion -- funcion calling itself 
+#recursion -- function calling itself 
 
 # def show(n):
 #     if (n==0):

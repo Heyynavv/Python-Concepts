@@ -22,5 +22,5 @@ nav = Students("Khushi" , 100 , 23)
 
 print(nav.name , "\t ", nav.marks , nav.age)
 
-# nav.getinfo()
-# nav.greet()
+nav.getinfo()
+nav.greet()
