@@ -42,3 +42,13 @@ for i in range(6):
     for j in range(i):
         print("# " , end ="")
     print()
+
+rows = 5
+
+for i in range(1, rows + 1):
+    spaces = ' ' * (rows - i)
+    stars = '*' * (2 * i - 1)
+    print(spaces + stars)
+
+for i in range(1, 6):
+    print(' ' * (5 - i) + '*' * (2 * i - 1))
