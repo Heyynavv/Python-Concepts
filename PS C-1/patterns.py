@@ -20,9 +20,20 @@
 # printing pattern in simplest way using for loop
 
 for i in range(1,6):
-    print("*" * i)
-    
+    # print("*" * i)
+    pass
 print("")
 
 for i in range(5,0,-1):
-    print("*" * i)
+    # print("*" * i)
+    pass
+
+for i in range(4):
+    pass
+    # print(" # " , end="")
+# print("")
+
+for i in range(4):
+    for i in range(4):
+        print(" # " , end="")
+    print("")
