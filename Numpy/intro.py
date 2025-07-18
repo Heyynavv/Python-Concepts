@@ -104,7 +104,3 @@ print(np.split(arr, 2)) # output: ([1, 2], [3, 4, 5])
 # sorting
 arr = np.array([3, 1, 2, 5, 4])
 print(np.sort(arr)) # output: [1 2 3 4 5]
-
-
-
-
